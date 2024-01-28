@@ -1,0 +1,1 @@
+DEBUG=stepn:* PORT=8000 npm start
